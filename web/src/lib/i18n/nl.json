@@ -586,6 +586,7 @@
     "failed_to_get_people": "Fout bij ophalen van mensen",
     "failed_to_load_asset": "Kan asset niet laden",
     "failed_to_load_assets": "Kan assets niet laden",
+    "failed_to_load_people": "Kan mensen niet laden",
     "failed_to_stack_assets": "Fout bij stapelen van assets",
     "failed_to_unstack_assets": "Fout bij ontstapelen van assets",
     "import_path_already_exists": "Dit import-pad bestaat al.",
